@@ -1,2 +1,4 @@
 text of song, line1
 text of song, line2
+text of song, line3
+text of song, line4
